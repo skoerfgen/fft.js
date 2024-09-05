@@ -38,7 +38,7 @@ f.transform(out, data);
 
 Inverse fourier transform:
 ```js
-f.inverseTransform(data, out);
+f.inverseTransform(out, data);
 ```
 
 ## Benchmarks
